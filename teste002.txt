@@ -3,3 +3,5 @@ http:/w3shool.com Link de complemento.
 UFT : Conjunto de caracteres 
 content: tamanho do site(responsividade)
 olhar Layout do html
+tags
+
