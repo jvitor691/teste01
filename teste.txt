@@ -1,0 +1,5 @@
+- inline 
+- id 
+- classe
+- tags
+ ordem de prioridades

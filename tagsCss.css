@@ -1,0 +1,10 @@
+p {
+    border: 5px solid rgb(0,255,0);
+}
+#borda {
+    border: 5px solid rgb(0,0,255);
+}
+.p-borda{
+    background-color: rgb(255,25,20);
+    border: solid;
+}
