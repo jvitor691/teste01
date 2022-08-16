@@ -4,7 +4,7 @@ header{
 
 }
 
-p{
+h3{
     color: white;
     font-family:'Courier New', Courier, monospace;
     padding: 20px 0px 20px 0px;
@@ -23,12 +23,37 @@ p{
 }
 #div2{
     background-color: blueviolet;
-    margin-left: 45%;
-    margin-right: 45%;
+    margin-left: 43%;
+    margin-right: 43%;
     margin-top: 0%;
     margin-bottom: 2%;
     padding: 1px 1px 1px 1px;
 }
-span{
-    
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: plum;
+    border-radius: 50%;
+}
+#section1 .circle{
+    display: inline-block;
+    margin: 0px 20px 0px 20px;
+}
+#section1{
+    margin-left: 280px;
+}
+.divCircule{
+    display: inline-block;
+    margin: 0px 40px 0px 32px;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#info{
+    margin-left: 280px;
+}
+footer{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
 }
