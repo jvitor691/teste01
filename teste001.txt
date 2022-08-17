@@ -1,1 +1,3 @@
 -> tag <legend> &lt; input &gt; </legend>
+-> <form action: url do servido que o formulario será enviado>
+</form>
