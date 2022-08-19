@@ -1,0 +1,18 @@
+fieldset form .grupo{
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+}
+h2{
+    text-align: center;
+    color: rgb(220, 20, 60);
+}
+fieldset{
+    background-color: rgb(250, 235, 215);
+}
+#botao{
+    background-color: black;
+    color: blanchedalmond;
+    border-radius: 60%;
+}

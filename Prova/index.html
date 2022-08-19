@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+  <fieldset>
+    <header>
+        <h2>Avaliação U01 M02 FS09</h2>
+    </header>
+    <form action="http://192.168.2.138:8090/av01" target="_blank">
+            <div class="grupo">
+                <label for="primeiroNome">Primeiro nome:</label>
+                <br>
+                <input type="text" id="primeiroNome" name="primeiroNome">
+            </div>
+            <div class="grupo">
+                <label for="ultimoNome">Último nome:</label>
+                <br>
+                <input type="text" id="ultimoNome" name="ultimoNome">
+            </div>
+            <div class="grupo">
+                <label for="turma">Turma:</label>
+                <select name="turma" id="turma">
+                    <option value="">...</option>
+                    <option value="FS09">FS09</option>
+                    <option value="FS10">FS10</option>
+                </select>
+            </div>
+            <div class="grupo">
+                <label for="email">Email:</label>
+                <br>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <section>
+                <div class="grupo">
+                    <button type="submit" id="botao">Cadastrar</button>
+                </div>
+            </section>
+        </fieldset>
+    </form>
+</body>
+</html>
