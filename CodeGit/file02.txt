@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 mudei de branch
 mkdir - criar arquivo pelo git  
+=======
+commit 02
+>>>>>>> b3535f0bc704f9375395090b8ebcadcf44242eb8
